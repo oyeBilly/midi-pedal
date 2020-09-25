@@ -5,6 +5,9 @@ To install a package specific to this project
 
 To run scripts in the virtual environment
 pipenv run python [script_name]
+
+alias prp="pipenv run python"
+
 # Useful links
 https://pipenv.pypa.io/en/latest/install/
 
