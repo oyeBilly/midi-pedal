@@ -1,0 +1,1 @@
+Files in this folder should be loaded to the ESP32, that is, it should mirror your micropython file system
