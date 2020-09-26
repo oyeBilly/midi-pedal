@@ -1,5 +1,6 @@
 #upython bin
 upython-bin/
+upython-file-system/private/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
